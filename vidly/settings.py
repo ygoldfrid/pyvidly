@@ -25,7 +25,7 @@ SECRET_KEY = 'zlv$_3(t(_#5*43bfj_)f@=(4jv3&$4ccffb13mwi9=h_0yd=1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['pyvidly.herokuapp.com']
 
 
 # Application definition
